@@ -62,3 +62,6 @@ graph LR
 ## Additional Resources
 
 - Sample restaurant data is provided in the `yelp/restaurants.json` file.
+
+## Sequence Diagram
+![Sequence](booker.png "Sequence")
